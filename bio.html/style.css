@@ -1,0 +1,49 @@
+.header {
+  background-color: green;
+  text-align: center;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-weight: bold;
+  font-size: 35px;
+  color: white;
+}
+.sub {
+  color: green;
+  font-weight: bold;
+  font-size: 25px;
+  border-bottom: 2px solid green;
+  border-color: green;
+  margin-bottom: 3px;
+}
+.det {
+  color: black;
+  font-weight: bold;
+  font-size: 15px;
+}
+.info {
+  font-weight: normal;
+  font-size: 15px;
+  color: rgb(100, 95, 95);
+  padding-left: 2px;
+  margin-bottom: 0px;
+}
+.button {
+  background-color: green;
+  color: white;
+  border-radius: 25px;
+  font-size: 16px;
+  padding: 4px;
+  border: none;
+  cursor: pointer;
+}
+.buttonex {
+  background-color: green;
+  color: white;
+  border-radius: 8px;
+  font-size: 20;
+  border: none;
+  padding: 8px;
+}
+.buttonex:hover {
+  background-color: greenyellow;
+}
